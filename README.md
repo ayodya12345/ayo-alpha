@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/ayodya12345/ayo-alpha.git"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -28,7 +28,7 @@
 </p>
 <br><!--
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/ayodya12345/ayo-alpha.git"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>-->
 
 
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ</strong>
+<strong>Ayo ALPHA BOT²⁰²²</strong>
 </p>
 
 <p align="center">
@@ -220,14 +220,7 @@ npm install
 ```
 
 ## ⚠️ HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
-
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
-
-
+first fork
 
 
 
@@ -253,10 +246,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |[![Dika Ardnt.](https://github.com/DikaArdnt.png?size=200)](https://quiec.tech) |
-|----|----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) | [꧁𓊈𒆜ＤＩＫＡ ＡＲＤＮＴ𒆜𓊉꧂](https://github.com/DikaArdnt) | 
-|  𒆜Bug Fixes, Modules, updates𒆜 |   𒆜Author, Base, Update as MD𒆜 |
+| [![Ayo-Alfa](https://github.com/ayodya12345/ayo-alpha.git)
+
+
+
   
   </div>
 
@@ -267,16 +260,16 @@ WhatsApp Connection (BETA, not working perfectly)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
-## ⚠️ Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Alien Alfa`](https://github.com/Alien-Alfa)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`Hisoka775`](https://github.com/Hisoka775)
+## ⚠️
+
+
+
+
+
+
+
+
+
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
